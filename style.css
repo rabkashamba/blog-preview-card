@@ -65,19 +65,29 @@ p {
 
 article {
     display: flex;
+    align-items: center;
+    gap: 0.6rem;
 }
 
 .author-avatar {
-    transform: scale(0.6);
-    margin-left: 0px;
-}
-
-.author-name {
-    align-self: center;
-
+    width: 13%;
+    height: 13%;
 }
 
 
+.preview-card:hover {
+     transform: scale(1.08);
+}
+
+a:hover {
+    color:var(--fourth-color);
+    background-color: var(--secondary-color);
+}
+
+a:focus {
+    color: var(--main-color);
+    background-color:  var(--fifth-color);
+}
 
 .attribution { font-size: 0.7rem; text-align: center; }
 .attribution a { color: var(--fifth-color); }
