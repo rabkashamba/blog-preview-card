@@ -5,9 +5,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-  - [Built with](#built-with)
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rabkashamba)
-- Twitter - [@yourusername](https://www.twitter.com/rabkashamba)
+- Frontend Mentor - [@rabkashamba](https://www.frontendmentor.io/profile/rabkashamba)
+- Twitter - [@rabkashamba](https://www.twitter.com/rabkashamba)
